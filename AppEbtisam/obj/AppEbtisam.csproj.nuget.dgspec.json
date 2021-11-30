@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Egypt\\testApp\\AppEbtisam\\AppEbtisam.csproj": {}
+    "E:\\MyWork\\git\\testApp\\AppEbtisam\\AppEbtisam.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Egypt\\testApp\\AppEbtisam\\AppEbtisam.csproj": {
+    "E:\\MyWork\\git\\testApp\\AppEbtisam\\AppEbtisam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Egypt\\testApp\\AppEbtisam\\AppEbtisam.csproj",
+        "projectUniqueName": "E:\\MyWork\\git\\testApp\\AppEbtisam\\AppEbtisam.csproj",
         "projectName": "AppEbtisam",
-        "projectPath": "D:\\Projects\\Egypt\\testApp\\AppEbtisam\\AppEbtisam.csproj",
-        "packagesPath": "C:\\Users\\Ebtisam\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Egypt\\testApp\\AppEbtisam\\obj\\",
+        "projectPath": "E:\\MyWork\\git\\testApp\\AppEbtisam\\AppEbtisam.csproj",
+        "packagesPath": "C:\\Users\\Adel\\.nuget\\packages\\",
+        "outputPath": "E:\\MyWork\\git\\testApp\\AppEbtisam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ebtisam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Adel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
